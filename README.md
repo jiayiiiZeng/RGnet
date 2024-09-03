@@ -12,11 +12,11 @@ Copyright (c) 2024 by Institute of Rare Diseases, West China Hospital, Sichuan U
 
 **This README file provides information about the contents of folder, RGnet.**
 
- **RG.sh** - a BASH-shell script to perform recessive genotype enrichment analysis of a VEP-annotated vcf file to identify pathogenic variants in interrelated genotype sharing in large patient cohorts.
++ **RG.sh** - a BASH-shell script to perform recessive genotype enrichment analysis of a VEP-annotated vcf file to identify pathogenic variants in interrelated genotype sharing in large patient cohorts.
 
 + **RG.yml** - a file which defines and configures the Conda environment required to run RGnet.
 
-+ **00.SCRIPT** - Detailed scripts of each step that support RG.sh to run successfully.
++ **00.SCRIPT** - detailed scripts of each step that support RG.sh to run successfully.
   + split.bed.py
   + vcf_filter_211011.sh
   + filter.240814.py
